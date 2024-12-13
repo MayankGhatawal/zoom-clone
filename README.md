@@ -1,5 +1,6 @@
 # Zoom Clone
 
+
 A Zoom clone built with Next.js and TypeScript, offering a comprehensive solution for video conferencing needs. This application aims to provide users with a seamless and reliable platform for hosting virtual meetings, online conferences, remote classrooms, and more.
 
 ## Table of Contents
